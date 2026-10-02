@@ -1,0 +1,33 @@
+filename = 'InventoryParticles-3.2.0+1.21.1+neoforge.jar'
+name = 'Inventory Particles'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.2.0+1.21.1+neoforge'
+
+[download]
+hash = '0fcec536b01339f1d3bdd875c924cd083328362fdcde9487e67f2a425426faa2b7783a86c1fb7af885e25edfa802cb2cce81db7a643291f2d0677ad6cbcf9c02'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XYnKrsxH/versions/tIeIGFCs/InventoryParticles-3.2.0%2B1.21.1%2Bneoforge.jar'
+
+[update.modrinth]
+mod-id = 'XYnKrsxH'
+version = 'tIeIGFCs'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'FCzmUKBr'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ffLDUGbm'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1eAoo2KR'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'PLAGcSFJ'
+type = 'OPTIONAL'
