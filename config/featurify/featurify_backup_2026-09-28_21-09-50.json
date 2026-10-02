@@ -1,0 +1,14 @@
+{
+  "config_version": "2.0.14",
+  "config_datetime": "2026-09-22_21-49-55",
+  "global": {
+    "disable_all_placed_features": false
+  },
+  "placed_features": [
+    {
+      "name": "minecraft:lake_lava_surface",
+      "is_disabled": true
+    }
+  ],
+  "biomes": []
+}

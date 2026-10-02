@@ -1,0 +1,13 @@
+name = "Extended illumina (NOT ENOUGH ANIMATIONS support)"
+filename = "§eExtended_Illumina_NEA_1.20x.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36915007608f62a363ccf97d64a4fe2dae9ff377"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5642781
+project-id = 1086752

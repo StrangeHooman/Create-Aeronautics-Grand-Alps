@@ -1,0 +1,281 @@
+2026-09-22 21:35:37 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-09-22 21:35:37 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-09-22 21:35:37 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-09-22 21:35:37 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-09-22 21:35:37 [ERROR] EuphoriaPatcher: 
+2026-09-22 21:35:37 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-09-22 21:35:37 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-09-22 21:35:37 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-09-22 21:35:37 [ERROR] EuphoriaPatcher: 
+2026-09-22 21:35:37 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-09-22 21:35:58 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-09-22 21:37:47 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-09-22 21:37:47 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-09-22 21:37:47 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-09-22 21:37:47 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-09-22 21:37:47 [ERROR] EuphoriaPatcher: 
+2026-09-22 21:37:47 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-09-22 21:37:47 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-09-22 21:37:47 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-09-22 21:37:47 [ERROR] EuphoriaPatcher: 
+2026-09-22 21:37:47 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-09-22 21:38:07 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-09-23 09:16:30 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-09-23 09:16:30 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-09-23 09:16:30 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-09-23 09:16:30 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-09-23 09:16:30 [ERROR] EuphoriaPatcher: 
+2026-09-23 09:16:30 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-09-23 09:16:30 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-09-23 09:16:30 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-09-23 09:16:30 [ERROR] EuphoriaPatcher: 
+2026-09-23 09:16:30 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-09-23 09:17:17 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-09-23 10:28:45 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-09-23 10:28:45 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-09-23 10:28:45 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-09-23 10:28:45 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-09-23 10:28:45 [ERROR] EuphoriaPatcher: 
+2026-09-23 10:28:45 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-09-23 10:28:45 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-09-23 10:28:45 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-09-23 10:28:45 [ERROR] EuphoriaPatcher: 
+2026-09-23 10:28:45 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-09-23 10:29:09 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-09-23 17:15:59 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-09-23 17:15:59 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-09-23 17:15:59 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-09-23 17:15:59 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-09-23 17:15:59 [ERROR] EuphoriaPatcher: 
+2026-09-23 17:15:59 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-09-23 17:15:59 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-09-23 17:15:59 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-09-23 17:15:59 [ERROR] EuphoriaPatcher: 
+2026-09-23 17:15:59 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-09-23 17:16:44 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-09-23 20:11:14 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-09-23 20:11:14 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-09-23 20:11:14 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-09-23 20:11:14 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-09-23 20:11:14 [ERROR] EuphoriaPatcher: 
+2026-09-23 20:11:14 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-09-23 20:11:14 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-09-23 20:11:14 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-09-23 20:11:14 [ERROR] EuphoriaPatcher: 
+2026-09-23 20:11:14 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-09-23 20:11:34 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-09-28 15:07:16 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-09-28 15:07:16 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-09-28 15:07:16 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-09-28 15:07:16 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-09-28 15:07:16 [ERROR] EuphoriaPatcher: 
+2026-09-28 15:07:16 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-09-28 15:07:16 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-09-28 15:07:16 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-09-28 15:07:16 [ERROR] EuphoriaPatcher: 
+2026-09-28 15:07:16 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-09-28 15:07:57 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-09-28 17:08:43 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-09-28 17:08:43 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-09-28 17:08:43 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-09-28 17:08:43 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-09-28 17:08:43 [ERROR] EuphoriaPatcher: 
+2026-09-28 17:08:43 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-09-28 17:08:43 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-09-28 17:08:43 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-09-28 17:08:43 [ERROR] EuphoriaPatcher: 
+2026-09-28 17:08:43 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-09-28 17:09:05 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-09-28 18:39:19 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-09-28 18:39:19 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-09-28 18:39:19 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-09-28 18:39:19 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-09-28 18:39:19 [ERROR] EuphoriaPatcher: 
+2026-09-28 18:39:19 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-09-28 18:39:19 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-09-28 18:39:19 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-09-28 18:39:19 [ERROR] EuphoriaPatcher: 
+2026-09-28 18:39:19 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-09-28 18:39:41 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-09-28 18:42:02 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-09-28 18:42:02 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-09-28 18:42:02 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-09-28 18:42:02 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-09-28 18:42:02 [ERROR] EuphoriaPatcher: 
+2026-09-28 18:42:02 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-09-28 18:42:02 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-09-28 18:42:02 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-09-28 18:42:02 [ERROR] EuphoriaPatcher: 
+2026-09-28 18:42:02 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-09-28 18:42:32 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-09-29 07:33:27 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-09-29 07:33:27 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-09-29 07:33:27 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-09-29 07:33:27 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-09-29 07:33:27 [ERROR] EuphoriaPatcher: 
+2026-09-29 07:33:27 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-09-29 07:33:27 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-09-29 07:33:27 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-09-29 07:33:27 [ERROR] EuphoriaPatcher: 
+2026-09-29 07:33:27 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-09-29 07:33:58 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-09-29 09:39:41 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-09-29 09:39:41 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-09-29 09:39:41 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-09-29 09:39:41 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-09-29 09:39:41 [ERROR] EuphoriaPatcher: 
+2026-09-29 09:39:41 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-09-29 09:39:41 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-09-29 09:39:41 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-09-29 09:39:41 [ERROR] EuphoriaPatcher: 
+2026-09-29 09:39:41 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-09-29 09:40:07 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-09-29 10:09:58 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-09-29 10:09:58 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-09-29 10:09:58 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-09-29 10:09:58 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-09-29 10:09:58 [ERROR] EuphoriaPatcher: 
+2026-09-29 10:09:58 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-09-29 10:09:58 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-09-29 10:09:58 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-09-29 10:09:58 [ERROR] EuphoriaPatcher: 
+2026-09-29 10:09:58 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-09-29 10:10:20 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-09-29 14:59:53 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-09-29 14:59:53 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-09-29 14:59:53 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-09-29 14:59:53 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-09-29 14:59:53 [ERROR] EuphoriaPatcher: 
+2026-09-29 14:59:53 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-09-29 14:59:53 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-09-29 14:59:53 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-09-29 14:59:53 [ERROR] EuphoriaPatcher: 
+2026-09-29 14:59:53 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-09-29 15:00:18 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-09-29 19:23:00 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-09-29 19:23:00 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-09-29 19:23:00 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-09-29 19:23:00 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-09-29 19:23:00 [ERROR] EuphoriaPatcher: 
+2026-09-29 19:23:00 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-09-29 19:23:00 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-09-29 19:23:00 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-09-29 19:23:00 [ERROR] EuphoriaPatcher: 
+2026-09-29 19:23:00 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-09-29 19:23:24 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-09-30 09:27:56 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-09-30 09:27:56 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-09-30 09:27:56 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-09-30 09:27:56 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-09-30 09:27:56 [ERROR] EuphoriaPatcher: 
+2026-09-30 09:27:56 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-09-30 09:27:56 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-09-30 09:27:56 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-09-30 09:27:56 [ERROR] EuphoriaPatcher: 
+2026-09-30 09:27:56 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-09-30 09:28:29 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-10-01 16:26:30 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-10-01 16:26:30 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-10-01 16:26:30 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-10-01 16:26:30 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-10-01 16:26:30 [ERROR] EuphoriaPatcher: 
+2026-10-01 16:26:30 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-10-01 16:26:30 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-10-01 16:26:30 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-10-01 16:26:30 [ERROR] EuphoriaPatcher: 
+2026-10-01 16:26:30 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-10-01 16:26:58 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-10-01 20:17:08 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-10-01 20:17:08 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-10-01 20:17:08 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-10-01 20:17:08 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-10-01 20:17:08 [ERROR] EuphoriaPatcher: 
+2026-10-01 20:17:08 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-10-01 20:17:08 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-10-01 20:17:08 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-10-01 20:17:08 [ERROR] EuphoriaPatcher: 
+2026-10-01 20:17:08 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-10-01 20:17:31 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-10-01 21:46:05 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-10-01 21:46:05 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.9.3
+2026-10-01 21:46:05 [ERROR] EuphoriaPatcher: Found: ComplementaryReimagined_r5.8.1.zip
+2026-10-01 21:46:05 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-10-01 21:46:05 [ERROR] EuphoriaPatcher: 
+2026-10-01 21:46:05 [ERROR] EuphoriaPatcher: SOLUTION:
+2026-10-01 21:46:05 [ERROR] EuphoriaPatcher: Step 1: Download and install ComplementaryShaders r5.9.3
+2026-10-01 21:46:05 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/manual-download/
+2026-10-01 21:46:05 [ERROR] EuphoriaPatcher: 
+2026-10-01 21:46:05 [ERROR] EuphoriaPatcher: Step 2: Paste the downloaded zip file into your shaderpacks folder.
+2026-10-01 21:46:37 [ERROR] EuphoriaPatcher: The download link has been copied to your clipboard. Paste it in your browser.

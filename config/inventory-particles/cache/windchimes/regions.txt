@@ -1,0 +1,16 @@
+windchimes:bamboo_chime	inventory_particles:bamboo_chime/fallback/standard_0	0	0	8	8
+windchimes:bamboo_chime	inventory_particles:bamboo_chime/fallback/standard_1	8	0	8	8
+windchimes:bamboo_chime	inventory_particles:bamboo_chime/fallback/standard_2	16	0	8	8
+windchimes:bamboo_chime	inventory_particles:bamboo_chime/fallback/standard_3	24	0	8	8
+windchimes:bamboo_chime	inventory_particles:bamboo_chime/fallback/standard_4	32	0	8	8
+windchimes:bamboo_chime	inventory_particles:bamboo_chime/fallback/standard_5	40	0	8	8
+windchimes:copper_chime	inventory_particles:copper_chime/glint/glint0_0	48	0	8	8
+windchimes:copper_chime	inventory_particles:copper_chime/glint/glint0_1	56	0	8	8
+windchimes:copper_chime	inventory_particles:copper_chime/glint/glint0_2	64	0	8	8
+windchimes:copper_chime	inventory_particles:copper_chime/glint/glint0_3	72	0	8	8
+windchimes:copper_chime	inventory_particles:copper_chime/glint/glint0_4	80	0	8	8
+windchimes:iron_chime	inventory_particles:iron_chime/glint/glint0_0	88	0	8	8
+windchimes:iron_chime	inventory_particles:iron_chime/glint/glint0_1	96	0	8	8
+windchimes:iron_chime	inventory_particles:iron_chime/glint/glint0_2	104	0	8	8
+windchimes:iron_chime	inventory_particles:iron_chime/glint/glint0_3	112	0	8	8
+windchimes:iron_chime	inventory_particles:iron_chime/glint/glint0_4	120	0	8	8

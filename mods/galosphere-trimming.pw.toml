@@ -1,0 +1,13 @@
+name = "Galosphere Trimming"
+filename = "galosphere_trimming-1.21.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a99423f584070812c3cd810bc01bde67909cf6e2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7277646
+project-id = 927107

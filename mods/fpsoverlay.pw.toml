@@ -1,0 +1,13 @@
+name = "FPS Overlay"
+filename = "FpsOverlay-neoforge-1.21.1-5.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf43ddf6dc34b0db10085734293bc88e58ec13e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8389076
+project-id = 1341801

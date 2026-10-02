@@ -1,0 +1,13 @@
+name = "Featurify - WorldGen Control"
+filename = "featurify-neoforge-2.0.14+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8b16941acad474148d4a9dc899b4e4a554b1251"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8904640
+project-id = 1569688

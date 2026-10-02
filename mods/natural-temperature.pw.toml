@@ -1,0 +1,16 @@
+name = "Natural Temperature"
+filename = "naturaltemperature-1.1.10-NEOFORGE-MC-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "907bd0b43589089c6b605fdbf50d8cd18bad554a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8713498
+project-id = 1550903
+
+[option]
+optional = true

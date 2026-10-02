@@ -1,0 +1,13 @@
+name = "[Let's Do] Alpine Whispers"
+filename = "letsdo-alpinewhispers-neoforge-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "09d038d21c9680c83572b5a10db37f887bd6799f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8914593
+project-id = 1399928

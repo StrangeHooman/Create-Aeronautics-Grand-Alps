@@ -1,0 +1,50 @@
+/locate biome minecraft:desert
+/chunky radius 2500
+/chunky center
+/chunky start
+/chunky cancel
+/chunky confirm
+/time set day
+/weather clear
+/aeroweather clear
+/time set day
+/locate biome minecraft:wooded_badlands
+/tp @s 7611 220 4786
+/chunky center
+/chunky radius 500
+/chunky start
+/chunky progress
+/locate biome badlands
+/tp @s 8598 118 6170
+/gamemode spectator
+/gamemode creative
+/chunky center
+/chunky start
+/time set day
+/locate structure towns_and_towers:village_wooded_badlands
+/tp @s 8880 ~ 8400
+/locate biome meadow
+/tp @s 11113 170 6291
+/locate biome #meadow:has_structure/chapel
+/teleport 0 500 0
+/locate biome meadow
+/tp @s 4323 305 2056
+/teleport 0 500 0
+/chunky center
+/chunky radius 2000
+/chunky start
+/time set day
+/chunky progress
+/chunky pause
+/chunky start
+/chunky continue
+/chunky progress
+/chunky pause
+/chunky continue
+/chunky cancel
+/chunky confirm
+/chunky center
+/chunky radius
+/chunky radius 1500
+/chunky start
+/chunky cancel

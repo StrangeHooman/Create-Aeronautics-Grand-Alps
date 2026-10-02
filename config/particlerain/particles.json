@@ -1,0 +1,38 @@
+{
+  "rain": {
+    "enabled": false
+  },
+  "heavy_dust": {
+    "enabled": false
+  },
+  "splatter": {
+    "enabled": false
+  },
+  "smoke": {
+    "enabled": false
+  },
+  "streak": {
+    "enabled": false
+  },
+  "mist": {
+    "enabled": false
+  },
+  "shrub": {
+    "enabled": false
+  },
+  "snow_haze": {},
+  "mist_after_rain": {
+    "enabled": false
+  },
+  "ripple": {
+    "enabled": false
+  },
+  "rain_haze": {},
+  "snow": {
+    "enabled": false
+  },
+  "dust": {
+    "enabled": false
+  },
+  "dust_haze": {}
+}

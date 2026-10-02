@@ -1,0 +1,13 @@
+name = "Mickey Joe's Flowers"
+filename = "MickeyJoesFlowersV7.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b008bba40dd10394f653b4a00fe1816ed9bc7c46"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8922523
+project-id = 1467490

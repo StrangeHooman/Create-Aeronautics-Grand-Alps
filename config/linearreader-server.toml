@@ -1,0 +1,126 @@
+#LinearReader - server-side settings
+#Zstd level used for normal .linear writes. Range: 1-22.
+#4-6 = recommended for normal server use.
+#22 = slowest, smallest output and is used by the idle recompressor.
+#Default = 4
+# Default: 4
+# Range: 1 ~ 22
+compressionLevel = 4
+#Maximum number of region files kept open in the cache.
+#Higher = faster repeated access across many regions.
+#Lower = less RAM use, but more cache misses and disk reads.
+#Default = 256
+# Default: 256
+# Range: 8 ~ 1024
+regionCacheSize = 256
+#Keep a .linear.bak in a backups/ folder next to each region file.
+backupEnabled = true
+#Minimum unique chunk changes since the last completed backup
+#before a refresh is allowed.
+#Default = 32
+# Default: 32
+# Range: 1 ~ 1024
+backupMinChangedChunks = 32
+#Minimum changed payload volume (KB) since the last completed
+#backup before a refresh is allowed.
+#Default = 2048
+# Default: 2048
+# Range: 64 ~ 262144
+backupMinChangedKb = 2048
+#Maximum age of a changed backup before it must be refreshed.
+#Only applies when backupEnabled = true.
+#Default = 30
+# Default: 30
+# Range: 1 ~ 10080
+backupMaxAgeMinutes = 30
+#Region quiet time required before a backup refresh is allowed.
+#Set to 0 to disable the quiet-time check.
+#Default = 60
+# Default: 60
+# Range: 0 ~ 3600
+backupQuietSeconds = 60
+#Maximum dirty regions submitted to the background flush executor
+#per server tick during a world save.
+#Higher drains backlog faster, but increases save-time work.
+#Default = 4
+# Default: 4
+# Range: 1 ~ 64
+regionsPerSaveTick = 4
+#Confirmation window shared by prune-chunks and sync-backups.
+#Commands must be confirmed again after this many seconds.
+#Default = 60
+# Default: 60
+# Range: 10 ~ 3600
+confirmWindowSeconds = 60
+#Lower bound for the dynamic pressure-flush dirty-region target.
+#Smaller values make pressure flushing kick in more aggressively.
+#Default = 4
+# Default: 4
+# Range: 1 ~ 64
+pressureFlushMinDirtyRegions = 4
+#Upper bound for the dynamic pressure-flush dirty-region target.
+#Larger values allow more backlog before pressure flushing ramps up.
+#Default = 16
+# Default: 16
+# Range: 1 ~ 128
+pressureFlushMaxDirtyRegions = 16
+#Warn in the log if a region read or write takes longer than
+#this many milliseconds. Set to -1 to disable.
+#Default = 500
+# Default: 500
+# Range: -1 ~ 30000
+slowIoThresholdMs = 500
+#Warn before writing if free disk space falls below this value (GB).
+#Set to -1 to disable.
+#Default = 1
+# Default: 1
+# Range: -1 ~ 1000
+diskSpaceWarnGb = 1
+#Enable automatic idle recompression after the server has had
+#no chunk I/O for the configured threshold.
+#Manual /linearreader afk-compress still works when this is false.
+#Default = true
+autoRecompressEnabled = true
+#Minutes with no chunk I/O before automatic recompression may start.
+#Only applies when autoRecompressEnabled = true.
+#Default = 20
+# Default: 20
+# Range: 5 ~ 1440
+idleThresholdMinutes = 20
+#Minimum available JVM heap headroom required during recompression.
+#If the worker drops below this percent it pauses for a few minutes
+#before trying again.
+#Default = 15
+# Default: 15
+# Range: 5 ~ 50
+recompressMinFreeRamPercent = 15
+#If true, converts every legacy .mca file in the world to .linear
+#immediately on startup, before the world becomes joinable.
+#If false, conversion still happens automatically for the whole world,
+#but runs in the background after the server has finished starting,
+#so players can join immediately.
+#Default = true
+bulkConvertOnLoad = true
+#Maximum cumulative InhabitedTime (in ticks) a chunk can have and
+#still be eligible for /linearreader prune-chunks.
+#A single flythrough is roughly 20-100 ticks; a repeatedly-visited
+#chunk (e.g. an elytra highway) accumulates well past this.
+#Default = 1200 (about 1 minute of cumulative loaded time)
+# Default: 1200
+# Range: 0 ~ 1000000
+pruneMaxInhabitedTimeTicks = 1200
+#Hours a region file must have no writes before its chunks become
+#eligible for pruning. Protects areas someone is actively playing near.
+#Set to 0 to disable this check.
+#Default = 12
+# Default: 12
+# Range: 0 ~ 8760
+pruneMinRegionQuietHours = 12
+#Which algorithm the idle/AFK recompressor uses for cold storage: "zstd" or "brotli".
+#Brotli produces smaller files but is much slower - only used for the
+#background/manual recompress pass, never live writes.
+#Default = zstd
+idleRecompressAlgorithm = "zstd"
+#Which algorithm backups (.linear.bak files) use for cold storage: "zstd" or "brotli".
+#Default = zstd
+backupCompressionAlgorithm = "zstd"

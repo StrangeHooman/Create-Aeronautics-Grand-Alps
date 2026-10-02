@@ -1,0 +1,3 @@
+[dimensions]
+	#Dimension IDs (e.g. "minecraft:the_end", "twilightforest:twilight_forest") that DeltaChunk should leave completely alone: no block changes are recorded for these dimensions, and their region files are never compacted. Use the full namespaced ID, exactly as it appears in the F3 debug screen's dimension line.
+	excluded_dimensions = "twilightforest:twilight_forest"
