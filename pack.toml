@@ -1,13 +1,13 @@
-name = "Create Aeronautics: Grand Alps"
-author = "ZAPMasterBuilder"
+name = "Create Aeronautics- Grand Alps"
+author = "StrangeHooman"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "97673f175432386c76fd2991f53918b85b699376b3bf78093526c649afb1802d"
+hash = "cf4e49d9b44c666bb721b630919ff4beeedc5c740d2108789feb5ef690440029"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.249"
+neoforge = "21.1.252"
